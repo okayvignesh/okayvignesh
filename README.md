@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Learning website](https://learnnthrive.com/)
 
-- 🌱 I’m currently learning **React js, Next js, Typescript**
+- 🌱 I’m currently learning **React js, Next js, TypeScript**
 
-- 💬 Ask me about **react js, next js, javascript, html and css**
+- 💬 Ask me about **React js, Next js, javaScript, Html and css**
 
 - 📫 How to reach me **okayvignesh12@gmail.com**
 
-- ⚡ Fun fact **Code poet by day, pixel painter by night.**
+- ⚡ **Code poet by day, pixel painter by night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
