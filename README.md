@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vignesh v</h1>
+<h1 align="center">Hi 👋, I'm Vignesh v</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/okayvignesh" target="blank"><img src="https://img.shields.io/twitter/follow/okayvignesh?logo=twitter&style=for-the-badge" alt="okayvignesh" /></a> </p>
