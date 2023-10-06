@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/okayvignesh" target="blank"><img src="https://img.shields.io/twitter/follow/okayvignesh?logo=twitter&style=for-the-badge" alt="okayvignesh" /></a> </p>
 
-- 🔭 I’m currently working on [Learning website](https://learnnthrive.com/)
+- 🔭 I’m currently working on [Online skill sharing Platform](https://www.skilldot.in/)
 
 - 🌱 I’m currently learning **React js, Next js, TypeScript**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **okayvignesh12@gmail.com**
 
-- ⚡ **Code poet by day, pixel painter by night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
