@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh v</h1>
-<h3 align="center">A passionate FullStack developer and Data Analysis Enthusiast</h3>
+<h3 align="center">A Passionate FullStack Developer and Data Analysis Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/okayvignesh" target="blank"><img src="https://img.shields.io/twitter/follow/okayvignesh?logo=twitter&style=for-the-badge" alt="okayvignesh" /></a> </p>
 
