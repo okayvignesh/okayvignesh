@@ -2,7 +2,7 @@
 <h3 ><i>A Passionate FullStack Developer</i></h3>
 
 
-- 🔭 Currently working on [Online skill sharing Platform](https://www.skilldot.in/)
+- 🔭 Currently working on [Subdomain renting Platform](https://domainrental.in/)
 
 - 🌱 Currently learning **React js, Next js, TypeScript**
 
