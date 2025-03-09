@@ -2,9 +2,7 @@
 <h3 ><i>A Passionate FullStack Developer</i></h3>
 
 
-- 🔭 Currently working on [Subdomain renting Platform](https://domainrental.in/)
-
-- 🌱 Currently learning **React js, Next js, TypeScript**
+- 🔭 Currently working on **Something Special!**
 
 - 💬 Ask me about **React js, Next js, javaScript**
 
